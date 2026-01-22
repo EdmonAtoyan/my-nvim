@@ -9,6 +9,6 @@ VS Code-like Neovim configuration with:
 ## Installation
 
 ```bash
-git clone [https://github.com/USERNAME/my-nvim.git](https://github.com/EdmonAtoyan/my-nvim.git)
+git clone https://github.com/USERNAME/my-nvim.git](https://github.com/EdmonAtoyan/my-nvim.git)
 ln -s my-nvim/nvim ~/.config/nvim
 nvim
